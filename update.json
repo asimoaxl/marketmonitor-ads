@@ -1,0 +1,21 @@
+{
+  "version": "1.2.0",
+  "date": "2026-11-16",
+  "notes": [
+    "به‌روزرسانی از داخل برنامه (ویندوز و اندروید)",
+    "دکمه «بررسی به‌روزرسانی» در تنظیمات، بخش درباره"
+  ],
+  "mandatory": false,
+  "windows": {
+    "setupUrl": "https://github.com/asimoaxl/marketmonitor-ads/releases/download/v1.2.0/MarketMonitor-Setup-1.2.0.exe",
+    "sha256": "2ca47d9ef3a9903602c565b44cb51e74f16b1d2e3606f8d28488a007e615f5d2",
+    "size": 121403962,
+    "portableUrl": "https://github.com/asimoaxl/marketmonitor-ads/releases/download/v1.2.0/MarketMonitor-Portable-1.2.0.exe"
+  },
+  "android": {
+    "apkUrl": "https://github.com/asimoaxl/marketmonitor-ads/releases/download/v1.2.0/MarketMonitor_Android_v1.2.0.apk",
+    "sha256": "e407c833d2bc8ffae4f23009108a5c6eb95d763c61da7ce3d544234113aba608",
+    "size": 5496445,
+    "minSdk": 24
+  }
+}
